@@ -1,5 +1,7 @@
 # ASTERI DAO 
 
+Developed inside repl and added to github after
+
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
 
