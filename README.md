@@ -1,6 +1,6 @@
 # ASTERI DAO 
 
-Developed inside repl and added to github after
+Developed using ThirdwebSDK
 
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
@@ -9,4 +9,4 @@ To get started with this course, clone this repo and follow these commands:
 2. Run `npm start` to start the project
 3. Start coding!
 
-a dao management tool for members of my dao :) 
+a dao management tool for members of a dao to mint a membership token 
